@@ -9,6 +9,10 @@ Here we collect our collective office material.
 
 ![Office-Logo](https://github.com/opencultureagency/office-material/blob/master/Office-Sticker.svg)
 
+**Full Sticker-Set preview:**
+
+![Office-Sticker-Set](https://github.com/opencultureagency/office-material/blob/master/Office-Sticker2x4-Set.png)
+
 
 ---
 
