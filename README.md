@@ -14,4 +14,4 @@ Here we collect our collective office material.
 
 [CC-BY-SA 4.0 License](https://choosealicense.com/licenses/cc-by-sa-4.0/) 
 
-[Read License](https://github.com/opencultureagency/office-material/edit/master/LICENSE.md)
+[Read License](https://github.com/opencultureagency/office-material/edit/master/LICENSE.me)
