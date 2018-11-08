@@ -8,7 +8,7 @@ Reference website https://openculture.agency/outcomes/
 - [#ASKotec](https://github.com/opencultureagency/ASKotec)
 - [ojoVoz](https://github.com/opencultureagency/ojoVoz_mobile)
  
-## open Educational Resources
+## Open Educational Resources
 - [Open Learning Guide](https://github.com/opencultureagency/Open-Learning-Guide)
 - [Open Hardware Guide](https://github.com/opencultureagency/Open-Hardware-Guide)
 - [#defyhatenow Field Guide](https://github.com/opencultureagency/defyhatenow/tree/master/FieldGuide-master)
