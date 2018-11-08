@@ -25,6 +25,7 @@ Reference website https://openculture.agency/outcomes/
 
  
 ## r0g_Posters
+Github folder [r0g_posters](https://github.com/opencultureagency/office-material/tree/master/r0g_posters)
 - #transformaking
 - #OSIDP
 - Social Media Hate Speech Mitigation Field Guide
