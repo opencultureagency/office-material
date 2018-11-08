@@ -9,9 +9,9 @@ Reference website https://openculture.agency/outcomes/
 - [ojoVoz](https://github.com/opencultureagency/ojoVoz_mobile)
  
 ## open Educational Resources
-- Open Learning Guide
-- Open Hardware Guide
-- #defyhatenow Field Guide
+- [Open Learning Guide](https://github.com/opencultureagency/Open-Learning-Guide)
+- [Open Hardware Guide](https://github.com/opencultureagency/Open-Hardware-Guide)
+- [#defyhatenow Field Guide](https://github.com/opencultureagency/defyhatenow/tree/master/FieldGuide-master)
  
 ## r0g_Reports
 2012 ff
